@@ -1,11 +1,15 @@
 # SC MULTI VER 4 TERAKHIR
-# update sc
+## Update & Upgrade First Your VPS for Debian 10 & 11
+```
 wget https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/update/install_up.sh && chmod +x install_up.sh && ./install_up.sh
+```
 
 
-
+## Update & Upgrade First Your VPS for Ubuntu 18.04 & 20.04
+```
 
 wget https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/up.sh && chmod +x up.sh && ./up.sh
+```
 
 
 ## install sc
