@@ -279,7 +279,7 @@ wget -O running "https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/
 wget -O clearcache "https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/menu/clearcache.sh"
 wget -O menu-trgo "https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/menu/menu-trgo.sh"
 wget -O menu-trojan "https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/menu/menu-trojan.sh"
-wget -O cf "https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/menu/cf.sh"
+wget -O cf "https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/cf.sh"
 
 # menu ssh ovpn
 wget -O menu-ssh "https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/menu/menu-ssh.sh"
