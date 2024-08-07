@@ -8,7 +8,7 @@ wget https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/update/insta
 ## Update & Upgrade First Your VPS for Ubuntu 18.04 & 20.04
 ```
 
-wget https://raw.githubusercontent.com/KhaiVpn767/multiport002/main/up.sh && chmod +x up.sh && ./up.sh
+  apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && sleep 2 && reboot
 ```
 
 
